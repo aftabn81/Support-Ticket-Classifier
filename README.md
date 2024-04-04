@@ -2,32 +2,12 @@
 
 🧑‍💻 Using Lllma7B model to classify support ticket and generate responses using prompt engineering
 
-Have you ever struggled with writing posts for social media?
-How about content that grabs the attention of target audience?
+In today's dynamic business landscape, organizations are increasingly recognizing the pivotal role customer feedback plays in shaping the trajectory of their products and services. Responding swiftly and effectively to customers not only fosters enhanced customer experiences but also serves as a catalyst for growth, prolonged customer engagement, and the nurturing of lifetime value relationships.
 
-You know it is challenge. 
-- It needs a great hook. 
-- Great content in short form. 
-- And totally different styles for LinkedIn than X (formely Twitter).
+As a dedicated Product Manager, staying attuned to the voice of your customers is not just a best practice; it's a strategic imperative.
 
- How would you like AI generated content to get you started? 
-AI Post Generator is sidekick that generates content for all three media...
-- LinkedIn
-- Twitter
-- Facebook
+While your organization may be inundated with a wealth of customer-generated feedback and support tickets, your role entails much more than just processing these inputs. To make your efforts in managing customer experience and expectations truly impactful, you need a structured approach – a method that allows you to discern the most pressing issues, set priorities, and allocate resources judiciously.
 
-**Steps to Run:**
-- Create a Python 3.11 environment
-- pip install -r requirements.txt to install all the requirements
-- run the app with streamlit run app.py command
-  
-🏗️TechStack Used: RAG Application implemented with
-
-LangChain
-OpenAI
-Helper Functions working with pandas
-
-
-⚠️ You would need an OpenAI API key to get started with this. 
+One of the most effective strategies at your disposal as an organization is to harness the power of automated Support Ticket Categorization - done in the modern day using Large Language Models and Generative AI.
 
 🤖 Author Noor Aftab
